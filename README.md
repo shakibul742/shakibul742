@@ -1,100 +1,106 @@
 <h1 align="center">Shakibul Islam</h1>
-<h3 align="center">Cybersecurity Student | Blue Team Enthusiast | Aspiring SOC Analyst</h3>
+<h3 align="center">Cybersecurity Student | Blue Team Specialist (Aspiring) | SOC Analyst Path</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SOC-Analyst%20Path-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge">
+  <a href="https://www.linkedin.com/in/shakibul742/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team-1F4F99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💼 Professional Overview
 
-Cybersecurity student with strong networking fundamentals and multi-platform Linux experience.  
-Actively developing expertise in Security Operations, Threat Detection, and Digital Forensics.  
-Hands-on lab experience through practical security platforms and defensive-focused learning.
+Cybersecurity student with strong networking foundations and multi-distribution Linux experience.  
+Focused on Security Operations, Threat Detection, Log Analysis, and Digital Forensics.  
+Developing defensive expertise through structured lab environments and real-world simulation platforms.
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Career Objective
 
-- Security Operations Center (SOC)
-- Threat Detection & Incident Response
-- SIEM & Log Analysis
-- Digital Forensics
-- Network Security Monitoring
+- Security Operations Center (SOC) Analyst  
+- Threat Detection & Incident Response  
+- SIEM & Log Analysis  
+- Digital Forensics & Investigation  
+- Network Security Monitoring  
 
 ---
 
 ## 🛠 Technical Competencies
 
 ### 🖧 Networking & Security Fundamentals
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows" height="45"/>
 </p>
 
 - TCP/IP, DNS, HTTP/S  
 - OSI Model  
 - Routing & Switching  
 - Firewall & IDS/IPS Concepts  
-- Cybersecurity Foundations  
+- Core Cybersecurity Principles  
 
 ---
 
-### 🔵 Blue Team (Developing Specialization)
+### 🔵 Blue Team (Primary Focus)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" height="45"/>
 </p>
 
-- Log Analysis  
-- Incident Investigation Workflow  
-- Threat Hunting Basics  
-- Windows Event Log Study  
-- Defensive Security Concepts  
+- Log Analysis & Alert Investigation  
+- Incident Response Workflow  
+- Basic Threat Hunting  
+- Windows Event Log Analysis  
+- Defensive Security Strategy  
 
 ---
 
-### 🔴 Red Team (Foundational Understanding)
+### 🔴 Red Team (Defensive Understanding)
 
-- Nmap Scanning  
-- Burp Suite  
-- Metasploit  
-- Web Vulnerability Testing (XSS, SQLi, IDOR)  
+- Nmap Reconnaissance  
+- Burp Suite Testing  
+- Metasploit Framework  
+- Web Vulnerability Analysis (XSS, SQLi, IDOR)  
 
 ---
 
-### 💻 Programming & Scripting
+### 💻 Programming & Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,dart" height="45"/>
 </p>
 
 - Secure Coding Fundamentals  
-- Scripting for Automation  
-- Problem Solving & Systems Understanding  
+- Security Automation Scripting  
+- Systems-Level Problem Solving  
 
 ---
 
-## 🧪 Security Platforms
+## 🧪 Practical Security Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-FF0000?style=flat-square">
-  <img src="https://img.shields.io/badge/LetsDefend-Active-1E90FF?style=flat-square">
+  <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-FF0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LetsDefend-Active%20Blue%20Team-1E90FF?style=flat-square"/>
 </p>
 
-- Practical Blue Team Labs  
+- Blue Team Practical Labs  
 - Detection Engineering Challenges  
 - Incident Response Simulations  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakibul742&show_icons=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul742&layout=compact&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakibul742&show_icons=true&hide_border=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul742&hide_border=true"/>
 </p>
 
 ---
@@ -102,21 +108,21 @@ Hands-on lab experience through practical security platforms and defensive-focus
 ## 📚 Currently Advancing Skills In
 
 - Digital Forensics  
-- SIEM Fundamentals  
+- SIEM Fundamentals (Splunk / Wazuh - Learning Phase)  
 - Windows Log Analysis  
-- SOC Alert Handling  
-- LetsDefend Incident Challenges  
+- SOC Alert Handling & Investigation  
+- LetsDefend Blue Team Scenarios  
 
 ---
 
-## 📫 Contact
+## 📫 Contact Information
 
-- 🎓 Edu Mail: shakibul.240112@s.pust.ac.bd  
-- 📧 Personal Mail: shakibul74254285@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/shakibul742  
+- 🎓 Academic Email: shakibul.240112@s.pust.ac.bd  
+- 📧 Personal Email: shakibul74254285@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shakibul742/  
 
 ---
 
 <p align="center">
-  <i>"Understanding offensive techniques to build stronger defense."</i>
+  <i>"Understanding offensive techniques to build resilient defensive systems."</i>
 </p>
