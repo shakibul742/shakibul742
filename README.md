@@ -96,15 +96,15 @@ Developing defensive expertise through structured lab environments and real-worl
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakibul742&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakibul742&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shakibul742&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shakibul742&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibul742&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
