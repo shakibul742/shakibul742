@@ -80,18 +80,6 @@ C • C++ • Python • Java • Bash • Dart
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul742&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 📚 Currently Learning
 
 <p>
@@ -106,6 +94,18 @@ C • C++ • Python • Java • Bash • Dart
 * Windows Log Analysis
 * SOC Alert Investigation
 * Blue Team Incident Handling
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul742&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
