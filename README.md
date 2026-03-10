@@ -79,10 +79,6 @@ C • C++ • Python • Java • Bash • Dart
   </a>
 </p>
 
-<p align="center">
-  <sub>Hands-on blue team labs • detection engineering • incident response simulations</sub>
-</p>
-
 * Blue Team Practical Labs
 * Detection Engineering Challenges
 * Incident Response Simulations
