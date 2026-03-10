@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shakibul742&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -63,13 +67,15 @@ C • C++ • Python • Java • Bash • Dart
 # 🧪 Security Practice Platforms
 
 <p align="center">
-<a href="https://tryhackme.com/p/shakibul742">
+
+<a href="https://tryhackme.com/p/shakibul742" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-<a href="https://app.letsdefend.io/user/shakibul742">
+<a href="https://app.letsdefend.io/user/shakibul742" target="_blank">
 <img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-00A8FF?style=for-the-badge&logo=shield&logoColor=white"/>
 </a>
+
 </p>
 
 * Blue Team Practical Labs
@@ -87,7 +93,6 @@ C • C++ • Python • Java • Bash • Dart
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
 </p>
-
 
 ---
 
@@ -110,16 +115,16 @@ C • C++ • Python • Java • Bash • Dart
 
 # 📫 Contact
 
-🎓 Academic Email
-[shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd)
+🎓 Academic Email <a href="mailto:shakibul.240112@s.pust.ac.bd" target="_blank">
+[shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd) </a>
 
-📧 Personal Email
-[shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com)
+📧 Personal Email <a href="mailto:shakibul74254285@gmail.com" target="_blank">
+[shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com) </a>
 
-💼 LinkedIn
-https://www.linkedin.com/in/shakibul742/
+💼 LinkedIn <a href="https://www.linkedin.com/in/shakibul742/" target="_blank">
+linkedin.com/in/shakibul742 </a>
 
-📘 Facebook
-https://www.facebook.com/shakibul742.cse.pust
+📘 Facebook <a href="https://www.facebook.com/shakibul742.cse.pust" target="_blank">
+facebook.com/shakibul742.cse.pust </a>
 
 ---
