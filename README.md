@@ -86,10 +86,6 @@ C • C++ • Python • Java • Bash • Dart
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul742&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
 </p>
 
