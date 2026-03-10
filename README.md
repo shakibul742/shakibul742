@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shakibul742&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -128,3 +124,13 @@ linkedin.com/in/shakibul742 </a>
 facebook.com/shakibul742.cse.pust </a>
 
 ---
+
+<h2 align="center">🐍 Contribution Matrix</h2>
+
+<p align="center">
+  <img src="https://github.com/shakibul742/shakibul742/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <sub>Tracking contribution patterns with an animated activity stream.</sub>
+</p>
