@@ -81,12 +81,18 @@ C • C++ • Python • Java • Bash • Dart
 # 📊 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shakibul742&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shakibul742&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul742&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibul742&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 ---
 
