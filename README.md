@@ -2,6 +2,13 @@
 
 # 👨‍💻 About Me
 
+<p>
+<img src="https://img.shields.io/badge/Blue%20Team-Defensive%20Security-1F4F99?style=flat-square"/>
+<img src="https://img.shields.io/badge/Threat-Detection-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Log-Analysis-4A86CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Digital-Forensics-6A5ACD?style=flat-square"/>
+</p>
+
 Cybersecurity student focused on **Security Operations, Threat Detection, Log Analysis, and Digital Forensics**.
 
 I develop defensive security expertise through **hands-on cyber defense labs, threat analysis, and real-world security simulation platforms**.
@@ -11,6 +18,16 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 ---
 
 # 🎯 Career Focus
+
+<p>
+<img src="https://img.shields.io/badge/Blue%20Team-Defensive%20Security-1F4F99?style=flat-square"/>
+<img src="https://img.shields.io/badge/Red%20Team-Offensive%20Knowledge-B22222?style=flat-square"/>
+<img src="https://img.shields.io/badge/SIEM-Monitoring-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Threat-Hunting-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network-Security-8A2BE2?style=flat-square"/>
+</p>
+
+🛡️ **Defensive Security** | ⚔️ **Offensive Knowledge** | 📊 **SIEM Monitoring** | 🔍 **Threat Hunting**
 
 * Security Operations Center (SOC) Analyst
 * Threat Detection & Incident Response
@@ -70,13 +87,13 @@ C • C++ • Python • Java • Bash • Dart
 # 🧪 Security Practice Platforms
 
 <p align="center">
-  <a href="https://tryhackme.com/p/shakibul742">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  </a>
-  &nbsp;
-  <a href="https://app.letsdefend.io/user/shakibul742">
-    <img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-00A8FF?style=for-the-badge&logo=shield&logoColor=white" />
-  </a>
+<a href="https://tryhackme.com/p/shakibul742">
+<img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<a href="https://app.letsdefend.io/user/shakibul742">
+<img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-00A8FF?style=for-the-badge&logo=shield&logoColor=white"/>
+</a>
 </p>
 
 * Blue Team Practical Labs
@@ -124,5 +141,8 @@ C • C++ • Python • Java • Bash • Dart
 
 💼 LinkedIn
 https://www.linkedin.com/in/shakibul742/
+
+📘 Facebook
+https://www.facebook.com/shakibul742.cse.pust
 
 ---
