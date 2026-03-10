@@ -1,135 +1,61 @@
-<h1 align="center">Shakibul Islam</h1>
-
-<p align="center">
-Cybersecurity Student • Blue Team Specialist (Aspiring) • SOC Analyst Path
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shakibul742/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://tryhackme.com/p/shakibul742">
-<img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme"/>
-</a>
-
-<a href="https://app.letsdefend.io/user/shakibul742">
-<img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-1E90FF?style=for-the-badge"/>
-</a>
-
-<a href="https://codeforces.com/profile/Shakibul742">
-<img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces"/>
-</a>
-
-</p>
-
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-Cybersecurity student specializing in **Blue Team operations and defensive security**.
+Cybersecurity student focused on **Security Operations, Threat Detection, Log Analysis, and Digital Forensics**.
 
-Focused on building practical expertise in:
+I develop defensive security expertise through **hands-on cyber defense labs, threat analysis, and real-world security simulation platforms**.
 
-* Security Monitoring
-* Threat Detection
-* Incident Response
-* Log Analysis
-* Digital Forensics
-
-Actively improving skills through **real-world cyber defense labs and security simulation platforms.**
+My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, protecting systems through effective monitoring, investigation, and incident response.
 
 ---
 
 # 🎯 Career Focus
 
-| Area              | Focus                        |
-| ----------------- | ---------------------------- |
-| SOC Operations    | Alert triage & investigation |
-| Threat Detection  | Log analysis & monitoring    |
-| Incident Response | Investigation workflow       |
-| Digital Forensics | Evidence analysis            |
-| Network Security  | Traffic monitoring           |
+* Security Operations Center (SOC) Analyst
+* Threat Detection & Incident Response
+* SIEM Monitoring & Log Analysis
+* Digital Forensics Investigation
+* Network Security Monitoring
 
 ---
 
 # 🛠 Technical Skills
 
-## Security & Networking
+### 🖥 Computer & Operating System Fundamentals
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows" height="45"/>
-</p>
+* Computer Systems Fundamentals
+* Linux & Windows Administration Basics
+* Multi-distribution Linux Experience
 
-* TCP/IP
-* DNS
-* HTTP / HTTPS
-* OSI Model
-* Routing & Switching
-* Firewall Concepts
-* IDS / IPS
+(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)
 
 ---
 
-## Blue Team Security
+### 🌐 Networking & Cybersecurity
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,python" height="45"/>
-</p>
-
-* Security Log Analysis
-* SOC Alert Investigation
-* Windows Event Logs
-* Incident Response Workflow
-* Basic Threat Hunting
+* Networking Fundamentals (TCP/IP, DNS, HTTP)
+* Routing & Switching Basics
+* Cybersecurity Core Principles
+* Red Teaming Fundamentals (Attacker Perspective)
 
 ---
 
-## Offensive Knowledge (For Defensive Security)
+### 💻 Programming & Scripting
 
-* Nmap Reconnaissance
-* Burp Suite Testing
-* Metasploit Framework
-* Web Vulnerability Analysis
+C • C++ • Python • Java • Bash • Dart
 
 ---
 
-## Programming
+# 🧪 Security Practice Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,dart" height="45"/>
-</p>
-
-* Secure Coding
-* Security Automation
-* System Programming
-
----
-
-# 🧪 Security Platforms
-
-| Platform   | Status                  |
-| ---------- | ----------------------- |
-| TryHackMe  | Top 15%                 |
-| LetsDefend | BD Rank #27             |
-| Codeforces | Competitive Programming |
+* Blue Team Practical Labs
+* Detection Engineering Challenges
+* Incident Response Simulations
 
 ---
 
 # 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shakibul742&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -138,23 +64,20 @@ Actively improving skills through **real-world cyber defense labs and security s
 * Digital Forensics
 * SIEM Platforms (Splunk / Wazuh)
 * Windows Log Analysis
-* SOC Investigation
+* SOC Alert Investigation
+* Blue Team Incident Handling
 
 ---
 
 # 📫 Contact
 
-Academic Email
+🎓 Academic Email
 [shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd)
 
-Personal Email
+📧 Personal Email
 [shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com)
 
-LinkedIn
+💼 LinkedIn
 https://www.linkedin.com/in/shakibul742/
 
 ---
-
-<p align="center">
-<i>"Understanding offensive techniques to build resilient defensive systems."</i>
-</p>
