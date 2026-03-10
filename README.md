@@ -125,8 +125,6 @@ facebook.com/shakibul742.cse.pust </a>
 
 ---
 
-<h2 align="center">🐍 Contribution Matrix</h2>
-
 <p align="center">
   <img src="https://github.com/shakibul742/shakibul742/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
