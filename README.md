@@ -24,15 +24,31 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 
 ### 🖥 Computer & Operating System Fundamentals
 
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,fedora,kali" height="42"/>
+<img src="https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=flat-square&logo=gnome"/>
+<img src="https://img.shields.io/badge/Desktop-KDE-1D99F3?style=flat-square&logo=kde"/>
+<img src="https://img.shields.io/badge/Desktop-XFCE-2284F2?style=flat-square"/>
+</p>
+
 * Computer Systems Fundamentals
 * Linux & Windows Administration Basics
 * Multi-distribution Linux Experience
 
-(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)
+*(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
 
 ---
 
 ### 🌐 Networking & Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNS-Networking-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Routing-Switching-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-1F4F99?style=flat-square"/>
+<img src="https://img.shields.io/badge/Red%20Team-Attacker%20Perspective-B22222?style=flat-square"/>
+</p>
 
 * Networking Fundamentals (TCP/IP, DNS, HTTP)
 * Routing & Switching Basics
@@ -43,11 +59,25 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 
 ### 💻 Programming & Scripting
 
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart" height="42"/>
+</p>
+
 C • C++ • Python • Java • Bash • Dart
 
 ---
 
 # 🧪 Security Practice Platforms
+
+<p>
+<a href="https://tryhackme.com/p/shakibul742">
+<img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="https://app.letsdefend.io/user/shakibul742">
+<img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-1E90FF?style=for-the-badge"/>
+</a>
+</p>
 
 * Blue Team Practical Labs
 * Detection Engineering Challenges
@@ -57,9 +87,24 @@ C • C++ • Python • Java • Bash • Dart
 
 # 📊 GitHub Activity
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shakibul742&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 # 📚 Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Digital_Forensics-Learning-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/SIEM-Splunk%20%2F%20Wazuh-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Windows-Log%20Analysis-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOC-Alert%20Investigation-blue?style=flat-square"/>
+</p>
 
 * Digital Forensics
 * SIEM Platforms (Splunk / Wazuh)
