@@ -7,6 +7,7 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-Blue%20Team-1F4F99?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-1E90FF?style=for-the-badge"/>
 </p>
 
 ---
