@@ -2,13 +2,6 @@
 
 # 👨‍💻 About Me
 
-<p>
-<img src="https://img.shields.io/badge/Blue%20Team-Defensive%20Security-1F4F99?style=flat-square"/>
-<img src="https://img.shields.io/badge/Threat-Detection-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Log-Analysis-4A86CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Digital-Forensics-6A5ACD?style=flat-square"/>
-</p>
-
 Cybersecurity student focused on **Security Operations, Threat Detection, Log Analysis, and Digital Forensics**.
 
 I develop defensive security expertise through **hands-on cyber defense labs, threat analysis, and real-world security simulation platforms**.
@@ -18,14 +11,6 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 ---
 
 # 🎯 Career Focus
-
-<p>
-<img src="https://img.shields.io/badge/Blue%20Team-Defensive%20Security-1F4F99?style=flat-square"/>
-<img src="https://img.shields.io/badge/Red%20Team-Offensive%20Knowledge-B22222?style=flat-square"/>
-<img src="https://img.shields.io/badge/SIEM-Monitoring-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Threat-Hunting-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/Network-Security-8A2BE2?style=flat-square"/>
-</p>
 
 🛡️ **Defensive Security** | ⚔️ **Offensive Knowledge** | 📊 **SIEM Monitoring** | 🔍 **Threat Hunting**
 
@@ -57,15 +42,6 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 ---
 
 ### 🌐 Networking & Cybersecurity
-
-<p>
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/DNS-Networking-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Routing-Switching-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-1F4F99?style=flat-square"/>
-<img src="https://img.shields.io/badge/Red%20Team-Attacker%20Perspective-B22222?style=flat-square"/>
-</p>
 
 * Networking Fundamentals (TCP/IP, DNS, HTTP)
 * Routing & Switching Basics
