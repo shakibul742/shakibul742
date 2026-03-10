@@ -69,14 +69,18 @@ C • C++ • Python • Java • Bash • Dart
 
 # 🧪 Security Practice Platforms
 
-<p>
-<a href="https://tryhackme.com/p/shakibul742">
-<img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme"/>
-</a>
+<p align="center">
+  <a href="https://tryhackme.com/p/shakibul742">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+  &nbsp;
+  <a href="https://app.letsdefend.io/user/shakibul742">
+    <img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-00A8FF?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://app.letsdefend.io/user/shakibul742">
-<img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-1E90FF?style=for-the-badge"/>
-</a>
+<p align="center">
+  <sub>Hands-on blue team labs • detection engineering • incident response simulations</sub>
 </p>
 
 * Blue Team Practical Labs
