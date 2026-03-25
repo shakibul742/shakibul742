@@ -49,16 +49,23 @@ def update_readme(active_days):
 
     badge_url = f"https://img.shields.io/badge/Total_Active_Days-{active_days}-7aa2f7?style=flat-square&labelColor=1f2335&logo=github"
     markdown_badge = f"![Active Days]({badge_url})"
+    
+    start_tag = ''
+    end_tag = ''
 
-    updated_readme = re.sub(
-        r'.*?',
-        f'\n<p align="center">\n  {markdown_badge}\n</p>\n',
-        readme,
-        flags=re.DOTALL
-    )
-
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(updated_readme)
+    # Safety Check: Only update if tags exist
+    if start_tag in readme and end_tag in readme:
+        updated_readme = re.sub(
+            f'{start_tag}.*?{end_tag}',
+            f'{start_tag}\n<p align="center">\n  {markdown_badge}\n</p>\n{end_tag}',
+            readme,
+            flags=re.DOTALL
+        )
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(updated_readme)
+        print("README updated successfully.")
+    else:
+        print("Error: Tags not found in README.md. File was not updated to prevent data loss.")
 
 if __name__ == "__main__":
     days = get_total_active_days()
