@@ -147,7 +147,7 @@ C • C++ • Python • Java • Bash • Dart
 # 📊 GitHub Activity
 
 <p align="center">
-  ![Active Days]({badge_url})
+  <img src="{badge_url}" alt="Total Active Days" />
 </p>
 
 <p align="center">
