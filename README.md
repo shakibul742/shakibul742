@@ -100,7 +100,7 @@ C • C++ • Python • Java • Bash • Dart
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Active_Days-77-7aa2f7?style=flat-square&labelColor=1f2335&logo=github" alt="Total Active Days" />
+  <img src="https://img.shields.io/badge/Total_Active_Days-78-7aa2f7?style=flat-square&labelColor=1f2335&logo=github" alt="Total Active Days" />
 </p>
 
 <p align="center">
