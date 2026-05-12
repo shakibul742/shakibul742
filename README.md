@@ -37,7 +37,7 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 * Linux & Windows Administration Basics
 * Multi-distribution Linux Experience
 
-*(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
+*(Windows, Ubuntu, Debian, Fedora, PopOS, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
 
 ---
 
