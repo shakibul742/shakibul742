@@ -37,7 +37,7 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 * Linux & Windows Administration Basics
 * Multi-distribution Linux Experience
 
-*(Windows, Ubuntu, Debian, Fedora, PopOS, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
+*(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
 
 ---
 
@@ -100,7 +100,7 @@ C • C++ • Python • Java • Bash • Dart
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Active_Days-110-7aa2f7?style=flat-square&labelColor=1f2335&logo=github" alt="Total Active Days" />
+  <img src="https://img.shields.io/badge/Total_Active_Days-111-7aa2f7?style=flat-square&labelColor=1f2335&logo=github" alt="Total Active Days" />
 </p>
 
 <p align="center">
