@@ -1,18 +1,14 @@
----
-
-# 👨‍💻 About Me
+# About Me
 
 Cybersecurity student focused on **Security Operations, Threat Detection, Log Analysis, and Digital Forensics**.
 
-I develop defensive security expertise through **hands-on cyber defense labs, threat analysis, and real-world security simulation platforms**.
-
-My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, protecting systems through effective monitoring, investigation, and incident response.
+I develop defensive security expertise through hands-on cyber defense labs, threat analysis, and real-world security simulation platforms. My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, protecting systems through effective monitoring, investigation, and incident response.
 
 ---
 
-# 🎯 Career Focus
+## Career Focus
 
-🛡️ **Defensive Security** | ⚔️ **Offensive Knowledge** | 📊 **SIEM Monitoring** | 🔍 **Threat Hunting**
+**Defensive Security** | **Offensive Knowledge** | **SIEM Monitoring** | **Threat Hunting**
 
 * Security Operations Center (SOC) Analyst
 * Threat Detection & Incident Response
@@ -22,9 +18,9 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 
 ---
 
-# 🛠 Technical Skills
+## Technical Skills
 
-### 🖥 Computer & Operating System Fundamentals
+### Computer & Operating System Fundamentals
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,fedora,kali" height="42"/>
@@ -35,22 +31,16 @@ My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, 
 
 * Computer Systems Fundamentals
 * Linux & Windows Administration Basics
-* Multi-distribution Linux Experience
+* Multi-distribution Linux Experience (Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME, KDE, XFCE environments)
 
-*(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
-
----
-
-### 🌐 Networking & Cybersecurity
+### Networking & Cybersecurity
 
 * Networking Fundamentals (TCP/IP, DNS, HTTP)
 * Routing & Switching Basics
 * Cybersecurity Core Principles
 * Red Teaming Fundamentals (Attacker Perspective)
 
----
-
-### 💻 Programming & Scripting
+### Programming & Scripting
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart" height="42"/>
@@ -60,18 +50,15 @@ C • C++ • Python • Java • Bash • Dart
 
 ---
 
-# 🧪 Security Practice Platforms
+## Security Practice Platforms
 
 <p align="center">
-
 <a href="https://tryhackme.com/p/shakibul742" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
-
 <a href="https://app.letsdefend.io/user/shakibul742" target="_blank">
 <img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-00A8FF?style=for-the-badge&logo=shield&logoColor=white"/>
 </a>
-
 </p>
 
 * Blue Team Practical Labs
@@ -80,7 +67,7 @@ C • C++ • Python • Java • Bash • Dart
 
 ---
 
-# 📚 Currently Learning
+## Currently Learning
 
 <p>
 <img src="https://img.shields.io/badge/Digital_Forensics-Learning-blue?style=flat-square"/>
@@ -97,7 +84,7 @@ C • C++ • Python • Java • Bash • Dart
 
 ---
 
-# 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Active_Days-158-7aa2f7?style=flat-square&labelColor=1f2335&logo=github" alt="Total Active Days" />
@@ -113,19 +100,12 @@ C • C++ • Python • Java • Bash • Dart
 
 ---
 
-# 📫 Contact
+## Contact
 
-🎓 Academic Email <a href="mailto:shakibul.240112@s.pust.ac.bd" target="_blank">
-[shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd) </a>
-
-📧 Personal Email <a href="mailto:shakibul74254285@gmail.com" target="_blank">
-[shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com) </a>
-
-💼 LinkedIn <a href="https://www.linkedin.com/in/shakibul742/" target="_blank">
-linkedin.com/in/shakibul742 </a>
-
-📘 Facebook <a href="https://www.facebook.com/shakibul742.cse.pust" target="_blank">
-facebook.com/shakibul742.cse.pust </a>
+* **Academic Email:** <a href="mailto:shakibul.240112@s.pust.ac.bd" target="_blank">shakibul.240112@s.pust.ac.bd</a>
+* **Personal Email:** <a href="mailto:shakibul74254285@gmail.com" target="_blank">shakibul74254285@gmail.com</a>
+* **LinkedIn:** <a href="https://www.linkedin.com/in/shakibul742/" target="_blank">linkedin.com/in/shakibul742</a>
+* **Facebook:** <a href="https://www.facebook.com/shakibul742.cse.pust" target="_blank">facebook.com/shakibul742.cse.pust</a>
 
 ---
 
