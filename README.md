@@ -29,7 +29,7 @@ I develop my defensive skills through hands-on labs and SOC simulations:
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github.com/shakibul742/shakibul742/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -40,13 +40,3 @@ I develop my defensive skills through hands-on labs and SOC simulations:
 * **Personal Email:** [shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com)
 * **LinkedIn:** [linkedin.com/in/shakibul742](https://www.linkedin.com/in/shakibul742/)
 * **Facebook:** [facebook.com/shakibul742.cse.pust](https://www.facebook.com/shakibul742.cse.pust)
-
----
-
-<p align="center">
-  <img src="https://github.com/shakibul742/shakibul742/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center">
-  <sub>Tracking contribution patterns with an animated activity stream.</sub>
-</p>
