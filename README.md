@@ -10,8 +10,8 @@ Cybersecurity student specializing in security operations, threat detection, and
 
 ## Practical Experience
 I develop my defensive skills through hands-on labs and SOC simulations:
-* **[LetsDefend](https://app.letsdefend.io/user/shakibul742):** Investigating SOC alerts, analyzing malware, and executing incident response playbooks (Ranked #27 in BD).
-* **[TryHackMe](https://tryhackme.com/p/shakibul742):** Understanding attacker methodologies to improve detection engineering (Top 15%).
+* **[LetsDefend](https://app.letsdefend.io/user/shakibul742):** Investigating SOC alerts, analyzing malware, and executing incident response playbooks (Ranked #23 in BD).
+* **[TryHackMe](https://tryhackme.com/p/shakibul742):** Understanding attacker methodologies to improve detection engineering (Top 8%).
 
 ## Current Focus
 * Constructing home labs for SIEM deployment and log ingestion.
