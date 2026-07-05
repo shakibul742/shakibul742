@@ -1,10 +1,10 @@
 # Shakibul Islam
-**SOC Analyst (Aspiring) | Defensive Security & Log Analysis**
+**SOC Analyst (Aspiring) | Blue Team & DFIR**
 
-Cybersecurity student specializing in security operations, threat detection, and digital forensics. My focus is on Blue Team methodologies—identifying threats, analyzing logs, and responding to incidents.
+Cybersecurity student specializing in security operations, threat detection, and DFIR (Digital Forensics and Incident Response). My focus is on Blue Team methodologies—identifying threats, analyzing logs, and responding to incidents.
 
 ## Technical Stack
-* **Security Operations:** Splunk, Wazuh, Windows Event Logs, Threat Hunting
+* **Security Operations & DFIR:** Splunk, Wazuh, Windows Event Logs, Threat Hunting, Incident Response, Digital Forensics
 * **Systems & Networking:** Linux, Windows, Server, TCP/IP, DNS
 * **Programming & Automation:** Python, C/C++
 
