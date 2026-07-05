@@ -18,6 +18,15 @@ I develop my defensive skills through hands-on labs and SOC simulations:
 * Writing custom detection rules for common MITRE ATT&CK techniques.
 * Expanding knowledge in digital forensics and evidentiary processes.
 
+## Contact
+
+* **Academic Email:** [shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd)
+* **Personal Email:** [shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com)
+* **LinkedIn:** [linkedin.com/in/shakibul742](https://www.linkedin.com/in/shakibul742/)
+* **Facebook:** [facebook.com/shakibul742.cse.pust](https://www.facebook.com/shakibul742.cse.pust)
+
+---
+
 ## GitHub Activity
 
 <p align="center">
@@ -31,12 +40,3 @@ I develop my defensive skills through hands-on labs and SOC simulations:
 <p align="center">
   <img src="https://github.com/shakibul742/shakibul742/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
----
-
-## Contact
-
-* **Academic Email:** [shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd)
-* **Personal Email:** [shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com)
-* **LinkedIn:** [linkedin.com/in/shakibul742](https://www.linkedin.com/in/shakibul742/)
-* **Facebook:** [facebook.com/shakibul742.cse.pust](https://www.facebook.com/shakibul742.cse.pust)
