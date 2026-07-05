@@ -5,8 +5,8 @@ Cybersecurity student specializing in security operations, threat detection, and
 
 ## Technical Stack
 * **Security Operations:** Splunk, Wazuh, Windows Event Logs, Threat Hunting
-* **Systems & Networking:** Linux (Debian, RedHat), Windows Server, TCP/IP, DNS
-* **Programming & Automation:** Python, Bash, C/C++, Java
+* **Systems & Networking:** Linux, Windows, Server, TCP/IP, DNS
+* **Programming & Automation:** Python, C/C++
 
 ## Practical Experience
 I develop my defensive skills through hands-on labs and SOC simulations:
