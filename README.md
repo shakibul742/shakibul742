@@ -17,15 +17,16 @@ CyberSecurity Learner focused on defensive operations: understanding telemetry, 
 ### 🛡️ Cybersecurity
 <p align="left">
   <img src="https://cdn.simpleicons.org/splunk/FF0098" height="40" alt="Splunk" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark" height="40" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/wireshark" height="40" alt="Wireshark" /> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/17222165?s=200&v=4" height="40" alt="Wazuh" style="border-radius: 5px;" /> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/10444634?s=200&v=4" height="40" alt="Nmap" style="border-radius: 5px;" /> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/59286460?s=200&v=4" height="40" alt="Volatility3" style="border-radius: 5px;" />
 </p>
-`Wazuh` · `Nmap` · `Volatility3`
 
 ### 🌐 Networking
 <p align="left">
-  <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco Packet Tracer" />
 </p>
-`Cisco Packet Tracer`
 
 ### 💻 Programming
 <p align="left">
