@@ -14,7 +14,7 @@ CyberSecurity Learner focused on defensive operations: understanding telemetry, 
 
 ## Technical Toolkit
 
-### 🛡️ Cybersecurity
+### Cybersecurity
 <p align="left">
   <img src="https://cdn.simpleicons.org/splunk/FF0098" height="40" alt="Splunk" /> &nbsp;
   <img src="https://cdn.simpleicons.org/wireshark" height="40" alt="Wireshark" /> &nbsp;
@@ -23,19 +23,19 @@ CyberSecurity Learner focused on defensive operations: understanding telemetry, 
   <img src="https://avatars.githubusercontent.com/u/59286460?s=200&v=4" height="40" alt="Volatility3" style="border-radius: 5px;" />
 </p>
 
-### 🌐 Networking
+### Networking
 <p align="left">
   <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco Packet Tracer" />
 </p>
 
-### 💻 Programming
+### Programming
 <p align="left">
   <img src="https://cdn.simpleicons.org/c" height="40" alt="C" /> &nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus" height="40" alt="C++" /> &nbsp;
   <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" />
 </p>
 
-### 🖥️ Operating Systems
+### Operating Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="Windows" /> &nbsp;
   <img src="https://cdn.simpleicons.org/linux" height="40" alt="Linux" /> &nbsp;
@@ -45,7 +45,7 @@ CyberSecurity Learner focused on defensive operations: understanding telemetry, 
   <img src="https://cdn.simpleicons.org/kalilinux" height="40" alt="Kali Linux" />
 </p>
 
-### 🐙 Version Control
+### Version Control
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="40" alt="Git" /> &nbsp;
   <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
