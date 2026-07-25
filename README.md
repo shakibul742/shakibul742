@@ -14,17 +14,26 @@ CyberSecurity Learner focused on defensive operations: understanding telemetry, 
 
 ## Technical Toolkit
 
+### 🛡️ Cybersecurity
+`Splunk` · `Wazuh` · `Wireshark` · `Nmap` · `Volatility3`
+
+### 🌐 Networking
+`TCP/IP` · `DNS` · `HTTP` · `Network Monitoring` · `Digital Forensics`
+
+### 💻 Programming
 <p align="left">
-  <img src="https://cdn.simpleicons.org/windows" height="40" alt="Windows" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/linux" height="40" alt="Linux" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/c" height="40" alt="C" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus" height="40" alt="C++" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="Ubuntu" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/debian" height="40" alt="Debian" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/fedora" height="40" alt="Fedora" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/popos" height="40" alt="Pop!_OS" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux" height="40" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming" />
+</p>
+
+### 🖥️ Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,fedora,kali" alt="Operating Systems" />
+</p>
+`Pop!_OS`
+
+### 🐙 Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
 </p>
 
 ## Learning Now
