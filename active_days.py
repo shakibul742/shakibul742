@@ -74,7 +74,7 @@ def update_readme(active_days):
     badge = (
         '<p align="center">\n'
         f'  <img src="https://img.shields.io/badge/Active%20Days-{active_days}-0D1117?'
-        'style=flat-square&amp;logo=github&amp;logoColor=67E8F9" '
+        'style=flat-square&amp;logo=github&amp;logoColor=7DD3FC" '
         'alt="Total active GitHub contribution days" />\n'
         "</p>"
     )
