@@ -8,14 +8,23 @@
 
 ## Focus Areas
 
-**Detection**<br>
-`SIEM Monitoring` `Windows Event Logs` `Alert Triage`
-<br><br>
-**Investigation**<br>
-`Log Analysis` `Digital Forensics` `Incident Context`
-<br><br>
-**Defense**<br>
-`Blue-Team Labs` `Response Simulations` `Network Monitoring`
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Detection</h3>
+      <p>SIEM monitoring<br>Windows event logs<br>Alert triage</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Investigation</h3>
+      <p>Log analysis<br>Digital forensics<br>Incident context</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Defense</h3>
+      <p>Blue-team labs<br>Response simulations<br>Network monitoring</p>
+    </td>
+  </tr>
+</table>
+
 
 ## Technical Toolkit
 
