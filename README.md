@@ -14,9 +14,18 @@ CyberSecurity Learner focused on defensive operations: understanding telemetry, 
 
 ## Technical Toolkit
 
-`Windows` · `Linux` · `Python` · `Bash` · `C` · `C++` · `Java` · `Dart`
-
-`TCP/IP` · `DNS` · `HTTP` · `Splunk` · `Wazuh` · `Windows Event Logs` · `Network Monitoring` · `Digital Forensics`
+<p align="left">
+  <img src="https://cdn.simpleicons.org/windows" height="40" alt="Windows" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/linux" height="40" alt="Linux" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/c" height="40" alt="C" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" height="40" alt="C++" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="Ubuntu" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/debian" height="40" alt="Debian" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/fedora" height="40" alt="Fedora" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/popos" height="40" alt="Pop!_OS" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux" height="40" alt="Kali Linux" />
+</p>
 
 ## Learning Now
 
