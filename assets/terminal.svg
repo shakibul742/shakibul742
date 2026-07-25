@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="850" height="380">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 350" width="850" height="350">
     <style>
         .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #a1a1aa; font-weight: 500; text-anchor: middle; }
         .text { font-family: 'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 14.5px; fill: #e4e4e7; }
@@ -13,7 +13,7 @@
     </style>
     
     <!-- Background -->
-    <rect x="0" y="0" width="850" height="380" rx="10" ry="10" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+    <rect x="0" y="0" width="850" height="350" rx="10" ry="10" fill="#18181b" stroke="#27272a" stroke-width="2"/>
     
     <!-- Title Bar -->
     <rect x="0" y="0" width="850" height="36" rx="10" ry="10" fill="#27272a"/>
@@ -35,31 +35,30 @@
             <tspan class="prompt-user">shakibul742@security</tspan><tspan class="dim">:</tspan><tspan class="prompt-dir">~</tspan><tspan class="dim">$ </tspan><tspan class="command">./about_me.exe</tspan>
         </text>
         
-        <!-- LEFT COLUMN (x=25) -->
-        <text x="25" y="115"><tspan class="exe">&gt; whoami.exe</tspan></text>
-        <text x="45" y="140"><tspan class="value">CyberSecurity Learner</tspan></text>
+        <!-- ONE COLUMN LAYOUT (x=25) -->
+        <text x="25" y="115"><tspan class="exe">whoami.exe</tspan></text>
+        <text x="145" y="115"><tspan class="value">CyberSecurity Learner</tspan></text>
 
-        <text x="25" y="175"><tspan class="exe">&gt; username.exe</tspan></text>
-        <text x="45" y="200"><tspan class="value">shakibul742</tspan></text>
+        <text x="25" y="145"><tspan class="exe">username.exe</tspan></text>
+        <text x="145" y="145"><tspan class="value">shakibul742</tspan></text>
 
-        <text x="25" y="235"><tspan class="exe">&gt; name.exe</tspan></text>
-        <text x="45" y="260"><tspan class="value">SHAKIBUL ISLAM</tspan></text>
+        <text x="25" y="175"><tspan class="exe">name.exe</tspan></text>
+        <text x="145" y="175"><tspan class="value">SHAKIBUL ISLAM</tspan></text>
+
+        <text x="25" y="205"><tspan class="exe">university.exe</tspan></text>
+        <text x="165" y="205"><tspan class="value">Pabna University of Science and Technology(PUST)</tspan></text>
         
-        <text x="25" y="295"><tspan class="exe">&gt; Location.exe</tspan></text>
-        <text x="45" y="320"><tspan class="value">Bangladesh</tspan></text>
+        <text x="25" y="235"><tspan class="exe">Location.exe</tspan></text>
+        <text x="145" y="235"><tspan class="value">Bangladesh</tspan></text>
 
-        <!-- RIGHT COLUMN (x=440) -->
-        <text x="440" y="115"><tspan class="exe">&gt; university.exe</tspan></text>
-        <text x="460" y="140"><tspan class="value">Pabna University of Science and Technology(PUST)</tspan></text>
-
-        <text x="440" y="175"><tspan class="exe">&gt; Degree.exe</tspan></text>
-        <text x="460" y="200"><tspan class="value">B.Sc. in Computer Science &amp; Engineering</tspan></text>
+        <text x="25" y="265"><tspan class="exe">Degree.exe</tspan></text>
+        <text x="145" y="265"><tspan class="value">B.Sc. in Computer Science &amp; Engineering</tspan></text>
         
-        <text x="440" y="235"><tspan class="exe">&gt; Focus.exe</tspan></text>
-        <text x="460" y="260"><tspan class="value">Defensive Security, SOC Analyst</tspan></text>
+        <text x="25" y="295"><tspan class="exe">Focus.exe</tspan></text>
+        <text x="145" y="295"><tspan class="value">Defensive Security, SOC Analyst</tspan></text>
         
         <!-- Next Prompt -->
-        <text x="25" y="360">
+        <text x="25" y="335">
             <tspan class="prompt-user">shakibul742@security</tspan><tspan class="dim">:</tspan><tspan class="prompt-dir">~</tspan><tspan class="dim">$ </tspan><tspan class="blink">█</tspan>
         </text>
     </g>
