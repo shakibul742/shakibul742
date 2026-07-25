@@ -84,8 +84,4 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/OBSERVE-3fb950?style=for-the-badge" alt="Observe" />
-  <img src="https://img.shields.io/badge/INVESTIGATE-a371f7?style=for-the-badge" alt="Investigate" />
-  <img src="https://img.shields.io/badge/DEFEND-58a6ff?style=for-the-badge" alt="Defend" />
-</p>
+<h4 align="center">O B S E R V E &nbsp;&nbsp;&bull;&nbsp;&nbsp; I N V E S T I G A T E &nbsp;&nbsp;&bull;&nbsp;&nbsp; D E F E N D</h4>
