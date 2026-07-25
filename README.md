@@ -1,36 +1,31 @@
-# SHAKIBUL ISLAM
+## About-Me.exe
 
 ```console
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ terminal://shakibul742/profile                              SESSION: ACTIVE  │
+╭─[ 🔴  🟢  🔵 ]──[ SHAKIBUL ISLAM // PROFILE TERMINAL ]──[ ONLINE ]─────────╮
+│                                                                              │
+│  shakibul742@security:~$ ./profile --load                                   │
+│                                                                              │
+│  ┌─ IDENTITY ────────────────────────────────────────────────────────────┐  │
+│  │  $ whoami.exe       ──>  CyberSecurity Learner                         │  │
+│  │  $ username.exe     ──>  shakibul742                                   │  │
+│  │  $ name.exe         ──>  SHAKIBUL ISLAM                                │  │
+│  └───────────────────────────────────────────────────────────────────────┘  │
+│                                                                              │
+│  ┌─ ACADEMIC ────────────────────────────────────────────────────────────┐  │
+│  │  $ university.exe   ──>  Pabna University of Science and Technology    │  │
+│  │                           (PUST)                                       │  │
+│  │  $ location.exe     ──>  Bangladesh                                    │  │
+│  │  $ degree.exe       ──>  B.Sc. in Computer Science & Engineering       │  │
+│  └───────────────────────────────────────────────────────────────────────┘  │
+│                                                                              │
+│  ┌─ SECURITY PATH ───────────────────────────────────────────────────────┐  │
+│  │  $ focus.exe        ──>  Defensive Security · SOC Analyst              │  │
+│  │  $ status.exe       ──>  Building practical defensive security skills  │  │
+│  └───────────────────────────────────────────────────────────────────────┘  │
+│                                                                              │
+│  [ MODE: DEFENSIVE ]  [ SIGNAL: READY ]  [ SESSION: ACTIVE ]                │
 ╰──────────────────────────────────────────────────────────────────────────────╯
-
-$ whoami.exe
-  CyberSecurity Learner
-
-$ username.exe
-  shakibul742
-
-$ name.exe
-  SHAKIBUL ISLAM
-
-$ university.exe
-  Pabna University of Science and Technology (PUST)
-
-$ location.exe
-  Bangladesh
-
-$ degree.exe
-  B.Sc. in Computer Science & Engineering
-
-$ focus.exe
-  Defensive Security · SOC Analyst
-
-$ status.exe
-  Building practical defensive security skills
 ```
-
-## About Me.exe
 
 CyberSecurity Learner focused on defensive operations: understanding telemetry, investigating alerts, and developing the discipline to respond with clear evidence.
 
