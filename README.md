@@ -6,18 +6,26 @@
 │  $ whoami.exe                                                               │
 │    CyberSecurity Learner                                                    │
 │                                                                              │
-│  $ profile --identity                                                       │
-│    username      shakibul742                                                │
-│    full name     SHAKIBUL ISLAM                                             │
+│  $ username.exe                                                             │
+│    shakibul742                                                              │
 │                                                                              │
-│  $ profile --education                                                      │
-│    university    Pabna University of Science and Technology (PUST)          │
-│    location      Bangladesh                                                  │
-│    degree        B.Sc. in Computer Science & Engineering                    │
+│  $ name.exe                                                                 │
+│    SHAKIBUL ISLAM                                                           │
 │                                                                              │
-│  $ profile --focus                                                          │
-│    focus         Defensive Security · SOC Analyst                           │
-│    status        Building practical defensive security skills               │
+│  $ university.exe                                                           │
+│    Pabna University of Science and Technology (PUST)                        │
+│                                                                              │
+│  $ location.exe                                                             │
+│    Bangladesh                                                                │
+│                                                                              │
+│  $ degree.exe                                                               │
+│    B.Sc. in Computer Science & Engineering                                  │
+│                                                                              │
+│  $ focus.exe                                                                │
+│    Defensive Security · SOC Analyst                                         │
+│                                                                              │
+│  $ status.exe                                                               │
+│    Building practical defensive security skills                             │
 │                                                                              │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  DEFENSIVE MODE  ·  EVIDENCE-LED LEARNING  ·  SESSION ACTIVE                 │
