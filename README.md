@@ -1,36 +1,6 @@
-```console
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  shakibul742@security:~                                ABOUT-ME.EXE / ONLINE │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  $ whoami.exe                                                               │
-│    CyberSecurity Learner                                                    │
-│                                                                              │
-│  $ username.exe                                                             │
-│    shakibul742                                                              │
-│                                                                              │
-│  $ name.exe                                                                 │
-│    SHAKIBUL ISLAM                                                           │
-│                                                                              │
-│  $ university.exe                                                           │
-│    Pabna University of Science and Technology (PUST)                        │
-│                                                                              │
-│  $ location.exe                                                             │
-│    Bangladesh                                                                │
-│                                                                              │
-│  $ degree.exe                                                               │
-│    B.Sc. in Computer Science & Engineering                                  │
-│                                                                              │
-│  $ focus.exe                                                                │
-│    Defensive Security · SOC Analyst                                         │
-│                                                                              │
-│  $ status.exe                                                               │
-│    Building practical defensive security skills                             │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  DEFENSIVE MODE  ·  EVIDENCE-LED LEARNING  ·  SESSION ACTIVE                 │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal About Me">
+</p>
 
 CyberSecurity Learner focused on defensive operations: understanding telemetry, investigating alerts, and developing the discipline to respond with clear evidence.
 
