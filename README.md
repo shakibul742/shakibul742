@@ -1,6 +1,6 @@
 ```console
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  shakibul742@security:~                                      PROFILE / ONLINE │
+│  shakibul742@security:~                                ABOUT-ME.EXE / ONLINE │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │  $ whoami.exe                                                               │
@@ -31,8 +31,6 @@
 │  DEFENSIVE MODE  ·  EVIDENCE-LED LEARNING  ·  SESSION ACTIVE                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
-
-## About-Me.exe
 
 CyberSecurity Learner focused on defensive operations: understanding telemetry, investigating alerts, and developing the discipline to respond with clear evidence.
 
