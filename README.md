@@ -1,31 +1,30 @@
-## About-Me.exe
-
 ```console
-╭─[ 🔴  🟢  🔵 ]──[ SHAKIBUL ISLAM // PROFILE TERMINAL ]──[ ONLINE ]─────────╮
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  shakibul742@security:~                                      PROFILE / ONLINE │
+├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  shakibul742@security:~$ ./profile --load                                   │
+│  $ whoami.exe                                                               │
+│    CyberSecurity Learner                                                    │
 │                                                                              │
-│  ┌─ IDENTITY ────────────────────────────────────────────────────────────┐  │
-│  │  $ whoami.exe       ──>  CyberSecurity Learner                         │  │
-│  │  $ username.exe     ──>  shakibul742                                   │  │
-│  │  $ name.exe         ──>  SHAKIBUL ISLAM                                │  │
-│  └───────────────────────────────────────────────────────────────────────┘  │
+│  $ profile --identity                                                       │
+│    username      shakibul742                                                │
+│    full name     SHAKIBUL ISLAM                                             │
 │                                                                              │
-│  ┌─ ACADEMIC ────────────────────────────────────────────────────────────┐  │
-│  │  $ university.exe   ──>  Pabna University of Science and Technology    │  │
-│  │                           (PUST)                                       │  │
-│  │  $ location.exe     ──>  Bangladesh                                    │  │
-│  │  $ degree.exe       ──>  B.Sc. in Computer Science & Engineering       │  │
-│  └───────────────────────────────────────────────────────────────────────┘  │
+│  $ profile --education                                                      │
+│    university    Pabna University of Science and Technology (PUST)          │
+│    location      Bangladesh                                                  │
+│    degree        B.Sc. in Computer Science & Engineering                    │
 │                                                                              │
-│  ┌─ SECURITY PATH ───────────────────────────────────────────────────────┐  │
-│  │  $ focus.exe        ──>  Defensive Security · SOC Analyst              │  │
-│  │  $ status.exe       ──>  Building practical defensive security skills  │  │
-│  └───────────────────────────────────────────────────────────────────────┘  │
+│  $ profile --focus                                                          │
+│    focus         Defensive Security · SOC Analyst                           │
+│    status        Building practical defensive security skills               │
 │                                                                              │
-│  [ MODE: DEFENSIVE ]  [ SIGNAL: READY ]  [ SESSION: ACTIVE ]                │
-╰──────────────────────────────────────────────────────────────────────────────╯
+├──────────────────────────────────────────────────────────────────────────────┤
+│  DEFENSIVE MODE  ·  EVIDENCE-LED LEARNING  ·  SESSION ACTIVE                 │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
+
+## About-Me.exe
 
 CyberSecurity Learner focused on defensive operations: understanding telemetry, investigating alerts, and developing the discipline to respond with clear evidence.
 
