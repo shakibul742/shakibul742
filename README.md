@@ -1,138 +1,88 @@
----
+<div align="center">
 
-# 👨‍💻 About Me
+# SHAKIBUL
 
-Cybersecurity student focused on **Security Operations, Threat Detection, Log Analysis, and Digital Forensics**.
+**Cybersecurity Student · SOC & Blue Team Focus**
 
-I develop defensive security expertise through **hands-on cyber defense labs, threat analysis, and real-world security simulation platforms**.
+<a href="https://tryhackme.com/p/shakibul742"><img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-111827?style=flat-square&logo=tryhackme&logoColor=ef4444" alt="TryHackMe Top 15%" /></a>
+<a href="https://app.letsdefend.io/user/shakibul742"><img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-111827?style=flat-square&logo=shield&logoColor=38bdf8" alt="LetsDefend Bangladesh Rank 27" /></a>
+<img src="https://img.shields.io/badge/Focus-Defensive%20Security-111827?style=flat-square&logo=securityscorecard&logoColor=38bdf8" alt="Focus Defensive Security" />
 
-My long-term goal is to work as a **Security Operations Center (SOC) Analyst**, protecting systems through effective monitoring, investigation, and incident response.
+</div>
 
----
+```console
+$ whoami.exe
 
-# 🎯 Career Focus
+shakibul742
+Cybersecurity student building practical capability in security operations.
+Focused on alert triage, threat detection, log analysis, and incident response.
 
-🛡️ **Defensive Security** | ⚔️ **Offensive Knowledge** | 📊 **SIEM Monitoring** | 🔍 **Threat Hunting**
+$ mission --long-term
 
-* Security Operations Center (SOC) Analyst
-* Threat Detection & Incident Response
-* SIEM Monitoring & Log Analysis
-* Digital Forensics Investigation
-* Network Security Monitoring
+Contribute as a SOC Analyst by helping teams detect, investigate,
+and contain security threats with clarity and discipline.
+```
 
----
+## Profile
 
-# 🛠 Technical Skills
+I am developing a defensive-security foundation through cyber defense labs, threat-analysis exercises, and simulated incident investigations. I bring an attacker-aware mindset to blue-team work, with particular interest in the evidence behind an alert: what happened, why it matters, and what should happen next.
 
-### 🖥 Computer & Operating System Fundamentals
+| Area | Current focus |
+| :-- | :-- |
+| `01` Security operations | Alert investigation, triage, and incident handling |
+| `02` Detection | SIEM monitoring, Windows logs, and threat hunting |
+| `03` Forensics | Artifact analysis and evidence-led investigation |
+| `04` Foundation | Networking, Linux, Windows, and attacker tradecraft |
 
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,fedora,kali" height="42"/>
-<img src="https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=flat-square&logo=gnome"/>
-<img src="https://img.shields.io/badge/Desktop-KDE-1D99F3?style=flat-square&logo=kde"/>
-<img src="https://img.shields.io/badge/Desktop-XFCE-2284F2?style=flat-square"/>
-</p>
-
-* Computer Systems Fundamentals
-* Linux & Windows Administration Basics
-* Multi-distribution Linux Experience
-
-*(Windows, Ubuntu, Debian, Fedora, Linux Mint, Kali Linux — GNOME • KDE • XFCE environments)*
-
----
-
-### 🌐 Networking & Cybersecurity
-
-* Networking Fundamentals (TCP/IP, DNS, HTTP)
-* Routing & Switching Basics
-* Cybersecurity Core Principles
-* Red Teaming Fundamentals (Attacker Perspective)
-
----
-
-### 💻 Programming & Scripting
+## Toolkit
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,dart" height="42"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,fedora,kali" height="38" alt="Windows and Linux distributions" />
 </p>
-
-C • C++ • Python • Java • Bash • Dart
-
----
-
-# 🧪 Security Practice Platforms
-
-<p align="center">
-
-<a href="https://tryhackme.com/p/shakibul742" target="_blank">
-<img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-</a>
-
-<a href="https://app.letsdefend.io/user/shakibul742" target="_blank">
-<img src="https://img.shields.io/badge/LetsDefend-BD%20Rank%2027-00A8FF?style=for-the-badge&logo=shield&logoColor=white"/>
-</a>
-
-</p>
-
-* Blue Team Practical Labs
-* Detection Engineering Challenges
-* Incident Response Simulations
-
----
-
-# 📚 Currently Learning
-
 <p>
-<img src="https://img.shields.io/badge/Digital_Forensics-Learning-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/SIEM-Splunk%20%2F%20Wazuh-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Windows-Log%20Analysis-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOC-Alert%20Investigation-blue?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,dart" height="38" alt="Programming and scripting languages" />
 </p>
 
-* Digital Forensics
-* SIEM Platforms (Splunk / Wazuh)
-* Windows Log Analysis
-* SOC Alert Investigation
-* Blue Team Incident Handling
+`TCP/IP` · `DNS` · `HTTP` · `Routing & Switching` · `SIEM Monitoring` · `Splunk` · `Wazuh` · `Windows Event Logs` · `Digital Forensics` · `Network Monitoring`
 
----
+## In Practice
 
-# 📊 GitHub Activity
+```text
+[ SECURITY OPERATIONS ]
+  └─ Blue-team practical labs and detection-engineering challenges
+  └─ Incident-response simulations and SOC-style alert investigations
+  └─ Linux and Windows administration across multiple distributions
+  └─ Red-team fundamentals to strengthen defensive context
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Active_Days-178-7aa2f7?style=flat-square&labelColor=1f2335&logo=github" alt="Total Active Days" />
-</p>
+## Current Queue
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul742&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+- Digital forensics and evidence collection
+- Splunk and Wazuh SIEM workflows
+- Windows log analysis and alert investigation
+- Threat hunting and blue-team incident handling
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📫 Contact
-
-🎓 Academic Email <a href="mailto:shakibul.240112@s.pust.ac.bd" target="_blank">
-[shakibul.240112@s.pust.ac.bd](mailto:shakibul.240112@s.pust.ac.bd) </a>
-
-📧 Personal Email <a href="mailto:shakibul74254285@gmail.com" target="_blank">
-[shakibul74254285@gmail.com](mailto:shakibul74254285@gmail.com) </a>
-
-💼 LinkedIn <a href="https://www.linkedin.com/in/shakibul742/" target="_blank">
-linkedin.com/in/shakibul742 </a>
-
-📘 Facebook <a href="https://www.facebook.com/shakibul742.cse.pust" target="_blank">
-facebook.com/shakibul742.cse.pust </a>
-
----
+## Activity
 
 <p align="center">
-  <img src="https://github.com/shakibul742/shakibul742/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibul742&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <sub>Tracking contribution patterns with an animated activity stream.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibul742&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
 </p>
+
+## Connect
+
+<a href="mailto:shakibul.240112@s.pust.ac.bd"><img src="https://img.shields.io/badge/Academic%20Email-shakibul.240112%40s.pust.ac.bd-111827?style=flat-square&logo=gmail&logoColor=white" alt="Academic email" /></a>
+<br />
+<a href="mailto:shakibul74254285@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-shakibul74254285%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white" alt="Personal email" /></a>
+<br />
+<a href="https://www.linkedin.com/in/shakibul742/"><img src="https://img.shields.io/badge/LinkedIn-shakibul742-111827?style=flat-square&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/shakibul742.cse.pust"><img src="https://img.shields.io/badge/Facebook-shakibul742.cse.pust-111827?style=flat-square&logo=facebook&logoColor=1877f2" alt="Facebook" /></a>
+
+<br />
+
+<div align="center">
+  <sub>Observe carefully. Investigate methodically. Defend continuously.</sub>
+</div>
