@@ -52,14 +52,7 @@
   <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
 </p>
 
-## Learning Now
 
-```text
-01  Digital forensics and evidence collection
-02  Splunk and Wazuh workflows
-03  Windows log analysis and alert investigation
-04  Threat hunting and blue-team incident handling
-```
 
 ## Activity
 
