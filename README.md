@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal About Me">
+  <img src="./assets/terminal.svg?v=2" alt="Terminal About Me">
 </p>
 
 CyberSecurity Learner focused on defensive operations: understanding telemetry, investigating alerts, and developing the discipline to respond with clear evidence.
