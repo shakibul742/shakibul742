@@ -25,13 +25,13 @@
     <circle cx="60" cy="15" r="6" fill="#27c93f"/>
 
     <!-- Title -->
-    <text x="425" y="20" class="title">shakibul742@security: ~</text>
+    <text x="425" y="20" class="title">shakibul742: ~</text>
 
     <!-- Content -->
     <g class="text">
         <!-- Execution command -->
         <text x="25" y="65">
-            <tspan class="prompt-user">shakibul742@security</tspan><tspan>:</tspan><tspan class="prompt-dir">~</tspan><tspan>$ </tspan><tspan class="command">./about_me.exe</tspan>
+            <tspan class="prompt-user">shakibul742</tspan><tspan>:</tspan><tspan class="prompt-dir">~</tspan><tspan>$ </tspan><tspan class="command">./about_me.exe</tspan>
         </text>
         
         <!-- ONE COLUMN LAYOUT -->
@@ -58,7 +58,7 @@
         
         <!-- Next Prompt -->
         <text x="25" y="325">
-            <tspan class="prompt-user">shakibul742@security</tspan><tspan>:</tspan><tspan class="prompt-dir">~</tspan><tspan>$ </tspan><tspan class="blink">█</tspan>
+            <tspan class="prompt-user">shakibul742</tspan><tspan>:</tspan><tspan class="prompt-dir">~</tspan><tspan>$ </tspan><tspan class="blink">█</tspan>
         </text>
     </g>
 </svg>
