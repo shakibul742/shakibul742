@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal_v3.svg" alt="Terminal About Me">
+  <img src="./assets/terminal_v4.svg" alt="Terminal About Me">
 </p>
 
 ## Career Objective
