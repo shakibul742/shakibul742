@@ -44,17 +44,17 @@
         <text x="25" y="165"><tspan class="exe">name.exe</tspan></text>
         <text x="165" y="165"><tspan class="value">SHAKIBUL ISLAM</tspan></text>
 
-        <text x="25" y="195"><tspan class="exe">university.exe</tspan></text>
-        <text x="165" y="195"><tspan class="value">Pabna University of Science and Technology(PUST)</tspan></text>
-        
-        <text x="25" y="225"><tspan class="exe">Location.exe</tspan></text>
-        <text x="165" y="225"><tspan class="value">Bangladesh</tspan></text>
+        <text x="25" y="195"><tspan class="exe">degree.exe</tspan></text>
+        <text x="165" y="195"><tspan class="value">B.Sc. in Computer Science &amp; Engineering</tspan></text>
 
-        <text x="25" y="255"><tspan class="exe">Degree.exe</tspan></text>
-        <text x="165" y="255"><tspan class="value">B.Sc. in Computer Science &amp; Engineering</tspan></text>
+        <text x="25" y="225"><tspan class="exe">university.exe</tspan></text>
+        <text x="165" y="225"><tspan class="value">Pabna University of Science and Technology(PUST)</tspan></text>
         
-        <text x="25" y="285"><tspan class="exe">Focus.exe</tspan></text>
-        <text x="165" y="285"><tspan class="value">Defensive Security, SOC Analyst</tspan></text>
+        <text x="25" y="255"><tspan class="exe">focus.exe</tspan></text>
+        <text x="165" y="255"><tspan class="value">Defensive Security, SOC Analyst</tspan></text>
+        
+        <text x="25" y="285"><tspan class="exe">location.exe</tspan></text>
+        <text x="165" y="285"><tspan class="value">Bangladesh</tspan></text>
         
         <!-- Next Prompt -->
         <text x="25" y="325">
