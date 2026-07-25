@@ -72,9 +72,9 @@ def get_total_active_days():
 
 def update_readme(active_days):
     replacement = (
-        "<!-- ACTIVE_DAYS:START -->\n"
-        f"**Total active days:** `{active_days}`\n"
-        "<!-- ACTIVE_DAYS:END -->"
+        "  <!-- ACTIVE_DAYS:START -->\n"
+        f'  <img src="https://img.shields.io/badge/Total%20Active%20Days-{active_days}-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Total Active Days" />\n'
+        "  <!-- ACTIVE_DAYS:END -->"
     )
     readme_content = README_PATH.read_text(encoding="utf-8")
     updated_content, replacements = ACTIVE_DAYS_PATTERN.subn(replacement, readme_content)

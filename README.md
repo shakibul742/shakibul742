@@ -56,9 +56,15 @@
 
 ## Activity
 
-<!-- ACTIVE_DAYS:START -->
-**Total active days:** `178`
-<!-- ACTIVE_DAYS:END -->
+<p align="center">
+  <!-- ACTIVE_DAYS:START -->
+  <img src="https://img.shields.io/badge/Total%20Active%20Days-178-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Total Active Days" />
+  <!-- ACTIVE_DAYS:END -->
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shakibul742&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=a371f7&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## Contact
 
