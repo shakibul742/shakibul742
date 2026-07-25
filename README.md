@@ -2,7 +2,9 @@
   <img src="./assets/terminal_v3.svg" alt="Terminal About Me">
 </p>
 
-CyberSecurity Learner focused on defensive operations: understanding telemetry, investigating alerts, and developing the discipline to respond with clear evidence.
+## Career Objective
+> To build a career as a Security Operations Center (SOC) Analyst where I can apply my knowledge of threat detection, log analysis, incident investigation, and defensive cybersecurity while continuously learning and contributing to organizational security.
+
 
 ## Focus Areas
 
