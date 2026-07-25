@@ -1,85 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Shakibul Islam cybersecurity terminal</title>
-  <desc id="desc">An animated professional terminal interface for CyberSecurity Learner Shakibul Islam.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Shakibul Islam professional cybersecurity terminal</title>
+  <desc id="desc">A static modern terminal showing Shakibul Islam's cybersecurity profile, education, location, and focus.</desc>
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070B12"/>
-      <stop offset=".58" stop-color="#0A1320"/>
-      <stop offset="1" stop-color="#090C16"/>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D14"/>
+      <stop offset=".62" stop-color="#0D1624"/>
+      <stop offset="1" stop-color="#090D17"/>
     </linearGradient>
-    <linearGradient id="edge" x1="42" y1="30" x2="1158" y2="270" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7DD3FC" stop-opacity=".8"/>
-      <stop offset=".48" stop-color="#334155" stop-opacity=".45"/>
-      <stop offset="1" stop-color="#818CF8" stop-opacity=".72"/>
+    <linearGradient id="edge" x1="32" y1="24" x2="1168" y2="476" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#334155" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#86EFAC" stop-opacity=".8"/>
     </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="340" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7DD3FC" stop-opacity="0"/>
-      <stop offset=".58" stop-color="#7DD3FC" stop-opacity=".05"/>
-      <stop offset=".82" stop-color="#7DD3FC" stop-opacity=".42"/>
-      <stop offset="1" stop-color="#E0F7FF" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#334155" stroke-opacity=".2"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#334155" stroke-opacity=".18"/>
     </pattern>
-    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#surface)" stroke="url(#edge)" stroke-width="2"/>
-  <rect x="20" y="20" width="1160" height="260" rx="12" fill="url(#grid)"/>
-  <path d="M20 70H1180M20 225H1180M822 70V225" stroke="#334155" stroke-opacity=".52"/>
+  <rect x="1" y="1" width="1198" height="498" rx="18" fill="url(#surface)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="20" y="20" width="1160" height="460" rx="12" fill="url(#grid)"/>
+  <path d="M20 72H1180" stroke="#334155" stroke-opacity=".75"/>
+  <path d="M46 96V452" stroke="#60A5FA" stroke-opacity=".34"/>
 
   <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
-    <circle cx="48" cy="46" r="5" fill="#FB7185"/>
-    <circle cx="66" cy="46" r="5" fill="#FBBF24"/>
-    <circle cx="84" cy="46" r="5" fill="#4ADE80"/>
-    <text x="112" y="50" fill="#64748B" font-size="11" letter-spacing="2">IDENTITY.TERMINAL / ONLINE</text>
+    <circle cx="48" cy="46" r="6" fill="#FF5F56"/>
+    <circle cx="68" cy="46" r="6" fill="#FFBD2E"/>
+    <circle cx="88" cy="46" r="6" fill="#27C93F"/>
+    <text x="116" y="51" fill="#94A3B8" font-size="12" letter-spacing="2">shakibul742@profile:~</text>
+    <text x="1040" y="51" fill="#86EFAC" font-size="11" letter-spacing="1">SESSION ACTIVE</text>
 
-    <text x="58" y="122" fill="#E2E8F0" font-size="34" font-weight="700" letter-spacing="1.5">SHAKIBUL ISLAM</text>
-    <text x="60" y="150" fill="#7DD3FC" font-size="12" letter-spacing="3">CYBERSECURITY LEARNER</text>
-    <text x="60" y="181" fill="#94A3B8" font-size="13">defensive operations · threat analysis · digital forensics</text>
-    <text x="60" y="207" fill="#64748B" font-size="11">learning in public, investigating with evidence</text>
+    <text x="70" y="118" fill="#F87171" font-size="15">$</text>
+    <text x="92" y="118" fill="#60A5FA" font-size="15">whoami.exe</text>
+    <text x="92" y="143" fill="#86EFAC" font-size="15">CyberSecurity Learner</text>
 
-    <text x="60" y="252" fill="#475569" font-size="10" letter-spacing="2">OPERATOR</text>
-    <text x="174" y="252" fill="#7DD3FC" font-size="11">shakibul742</text>
-    <text x="288" y="252" fill="#475569" font-size="10" letter-spacing="2">MODE</text>
-    <text x="354" y="252" fill="#A5B4FC" font-size="11">LEARNING</text>
-  </g>
+    <text x="70" y="188" fill="#F87171" font-size="15">$</text>
+    <text x="92" y="188" fill="#60A5FA" font-size="15">username.exe</text>
+    <text x="92" y="213" fill="#86EFAC" font-size="15">shakibul742</text>
 
-  <g transform="translate(872 98)" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
-    <text x="0" y="0" fill="#475569" font-size="10" letter-spacing="2">SYSTEM.STATUS</text>
-    <circle cx="18" cy="34" r="5" fill="#7DD3FC" filter="url(#glow)">
-      <animate attributeName="opacity" values="1;1;.2;.2;1" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-    <text x="36" y="38" fill="#E2E8F0" font-size="13" letter-spacing="1">ACTIVE</text>
-    <text x="0" y="72" fill="#64748B" font-size="11">posture</text>
-    <text x="92" y="72" fill="#7DD3FC" font-size="11">DEFENSIVE</text>
-    <text x="0" y="101" fill="#64748B" font-size="11">signal</text>
-    <text x="92" y="101" fill="#A5B4FC" font-size="11">MONITORING</text>
-  </g>
+    <text x="70" y="258" fill="#F87171" font-size="15">$</text>
+    <text x="92" y="258" fill="#60A5FA" font-size="15">name.exe</text>
+    <text x="92" y="283" fill="#E2E8F0" font-size="15" font-weight="700" letter-spacing="1">SHAKIBUL ISLAM</text>
 
-  <g>
-    <rect x="-340" y="21" width="340" height="258" fill="url(#scan)"/>
-    <animateTransform attributeName="transform" type="translate" values="0 0;1540 0" dur="5.8s" repeatCount="indefinite"/>
-  </g>
+    <text x="70" y="328" fill="#F87171" font-size="15">$</text>
+    <text x="92" y="328" fill="#60A5FA" font-size="15">university.exe</text>
+    <text x="92" y="353" fill="#86EFAC" font-size="14">Pabna University of Science and Technology (PUST)</text>
 
-  <g transform="translate(58 243)">
-    <path d="M0 21H682" stroke="#7DD3FC" stroke-opacity=".18" stroke-width="1"/>
-    <path d="M0 21H93L137 7 181 31 242 17 304 25 357 3 409 28 468 14 531 23 586 8 682 21" fill="none" stroke="#7DD3FC" stroke-width="1.5" stroke-dasharray="5 7">
-      <animate attributeName="stroke-dashoffset" values="0;-48" dur="2.5s" repeatCount="indefinite"/>
-    </path>
-    <circle r="4" fill="#E0F7FF" filter="url(#glow)">
-      <animateMotion dur="4.8s" repeatCount="indefinite" path="M0 21H93L137 7 181 31 242 17 304 25 357 3 409 28 468 14 531 23 586 8 682 21"/>
-    </circle>
-  </g>
+    <text x="70" y="398" fill="#F87171" font-size="15">$</text>
+    <text x="92" y="398" fill="#60A5FA" font-size="15">location.exe</text>
+    <text x="92" y="423" fill="#86EFAC" font-size="15">Bangladesh</text>
 
-  <g transform="translate(846 241)">
-    <rect width="290" height="28" rx="5" fill="#0D1828" stroke="#334155"/>
-    <text x="16" y="19" fill="#7DD3FC" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="10">$ whoami.exe</text>
-    <rect x="112" y="8" width="6" height="13" fill="#7DD3FC">
-      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
-    </rect>
+    <text x="612" y="118" fill="#F87171" font-size="15">$</text>
+    <text x="634" y="118" fill="#60A5FA" font-size="15">degree.exe</text>
+    <text x="634" y="143" fill="#86EFAC" font-size="14">B.Sc. in Computer Science &amp; Engineering</text>
+
+    <text x="612" y="188" fill="#F87171" font-size="15">$</text>
+    <text x="634" y="188" fill="#60A5FA" font-size="15">focus.exe</text>
+    <text x="634" y="213" fill="#86EFAC" font-size="15">Defensive Security · SOC Analyst</text>
+
+    <text x="612" y="258" fill="#F87171" font-size="15">$</text>
+    <text x="634" y="258" fill="#60A5FA" font-size="15">linkedin.exe</text>
+    <text x="634" y="283" fill="#7DD3FC" font-size="14">linkedin.com/in/shakibul742</text>
+
+    <text x="612" y="328" fill="#F87171" font-size="15">$</text>
+    <text x="634" y="328" fill="#60A5FA" font-size="15">status.exe</text>
+    <text x="634" y="353" fill="#86EFAC" font-size="15">Building practical defensive security skills</text>
+
+    <text x="612" y="408" fill="#64748B" font-size="10" letter-spacing="2">PROFILE / VERIFIED INFORMATION</text>
+    <path d="M612 424H1114" stroke="#60A5FA" stroke-opacity=".35"/>
+    <rect x="612" y="439" width="312" height="25" rx="4" fill="#0B1726" stroke="#334155"/>
+    <text x="628" y="456" fill="#F87171" font-size="11">$</text>
+    <text x="646" y="456" fill="#60A5FA" font-size="11">ready_for_next_command</text>
+    <rect x="820" y="444" width="6" height="13" fill="#86EFAC" filter="url(#soft-glow)"/>
   </g>
 </svg>
