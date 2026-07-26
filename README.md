@@ -49,7 +49,11 @@
 ### Version Control
 <p align="left">
   <img src="https://cdn.simpleicons.org/git" height="40" alt="Git" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  </picture>
 </p>
 
 
