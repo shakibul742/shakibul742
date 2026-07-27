@@ -61,7 +61,7 @@
 ## Activity
 
 <p align="center">
-                    <!-- ACTIVE_DAYS:START -->
+                      <!-- ACTIVE_DAYS:START -->
   <img src="https://img.shields.io/badge/Total%20Active%20Days-180-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Total Active Days" />
   <!-- ACTIVE_DAYS:END -->
 </p>
