@@ -35,6 +35,7 @@
 ## Activity
 
 <p align="center">
+<<<<<<< HEAD
                                                             <!-- ACTIVE_DAYS:START -->
   <img src="https://img.shields.io/badge/Total%20Active%20Days-197-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Total Active Days" />
   <!-- ACTIVE_DAYS:END -->
@@ -42,6 +43,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shakibul742&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=a371f7&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=false&v=2" alt="GitHub Streak" />
+=======
+  <img src="./assets/github-activity.svg" alt="GitHub activity dashboard" width="900" />
+>>>>>>> 3734110 (feat: add resilient GitHub activity dashboard)
 </p>
 
 ## Contact
