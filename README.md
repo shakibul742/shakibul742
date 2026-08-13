@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shakibul742&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=a371f7&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=false&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shakibul742&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=a371f7&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=false&v=2" alt="GitHub Streak" />
 </p>
 
 ## Contact
